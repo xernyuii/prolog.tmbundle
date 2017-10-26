@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>${1:clause} --&amp;gt; ${0:body}.</string>
+	<string>${1:clause} --&gt; ${0:body}.</string>
 	<key>name</key>
 	<string>DCG</string>
 	<key>scope</key>
@@ -11,6 +11,6 @@
 	<key>tabTrigger</key>
 	<string>dcg</string>
 	<key>uuid</key>
-	<string>238E350A-E0E6-45F3-A3C4-0E94D708F1E0</string>
+	<string>614B6B00-F2FC-4B72-AB99-2E69D81950C4</string>
 </dict>
 </plist>
